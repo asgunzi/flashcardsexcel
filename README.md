@@ -14,12 +14,14 @@ O flash card vai mostrar a pergunta, escolhida aleatoriamente da lista fornecida
 ![alt text](https://ferramentasexcelvba.files.wordpress.com/2017/11/image002.png)
  
 E depois, a resposta.
+
 ![alt text](https://ferramentasexcelvba.files.wordpress.com/2017/11/image003.png)
 
 
 
 Este método também pode ser usado para aprender chinês, ou qualquer outra coisa. Basta preencher a lista de perguntas e respostas.
- ![alt text](https://ferramentasexcelvba.files.wordpress.com/2017/11/image007.png)
+ 
+![alt text](https://ferramentasexcelvba.files.wordpress.com/2017/11/image007.png)
 
 
 
