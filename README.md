@@ -26,3 +26,15 @@ Este método também pode ser usado para aprender chinês, ou qualquer outra coi
 
 
 As macros devem estar ativadas para o formulário funcionar.
+
+
+
+Links:
+
+Página de ferramentas excel
+https://ferramentasexcelvba.wordpress.com/
+
+
+Ideias técnicas com um pouco de filosofia
+https://ideiasesquecidas.com/
+
